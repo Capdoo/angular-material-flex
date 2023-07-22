@@ -1,0 +1,88 @@
+.menuDiv{
+    background-color: #33BBFF;
+    color: white;
+    height: 50px;
+}
+
+.space{
+    padding-top: 8px;
+}
+.nameCompany{
+    color: yellow;
+}
+.bRed{
+    /* border: 1px solid red; */
+    height: 100px;
+}
+
+
+
+.divA{
+    background-color: rgb(237, 253, 177);
+    min-height: 160px;
+}
+.divB{
+    background-color: rgb(200, 223, 116);
+    min-height: 160px;
+}
+.divC{
+    background-color: rgb(200, 235, 77);
+    min-height: 160px;
+}
+
+
+
+.divD{
+    background-color: #C69739;
+    min-height: 160px;
+}
+.divE{
+    background-color: #BD8A22;
+    min-height: 160px;
+}
+.divF{
+    background-color: #F0AF2B;
+    min-height: 160px;
+}
+
+
+
+.divG{
+    background-color: #9C69F1;
+    min-height: 160px;
+}
+.divH{
+    background-color: #7135D5;
+    min-height: 160px;
+}
+.divI{
+    background-color: #7B72E3;
+    min-height: 160px;
+}
+.divJ{
+    background-color: #CAB5DF;
+    min-height: 160px;
+}
+
+
+.bigDiv{
+    background-color: #BCF190;
+    min-height: 480px;
+}
+.divL{
+    background-color: #93C46B;
+    min-height: 160px;
+}
+.divM{
+    background-color: #7F9D66;
+    min-height: 160px;
+}
+.divN{
+    background-color: #5AA020;
+    min-height: 160px;
+}
+
+.footer{
+    background-color: #F19F43;
+    min-height: 60px;
+}
